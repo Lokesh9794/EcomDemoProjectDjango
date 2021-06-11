@@ -1,0 +1,3 @@
+To run this project on your local machine,
+   you have to install Python and Django on The local machine
+   
